@@ -20,6 +20,15 @@ This site documents practical home monitoring projects, predictive maintenance i
 - Learn From Patterns
 - Failure Mode Thinking
 
+## Featured Articles
+
+- [Why I Monitor Things Before They Break](why-i-monitor-things-before-they-break.md)
+
+- Coming soon
+
+- Understanding Failure Modes
+- Awareness Before Automation
+
 ## Learning 101
 
 - [Sump Pump Monitoring 101](sump-pump-monitoring-101.md)
