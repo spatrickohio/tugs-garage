@@ -34,14 +34,12 @@ Coming soon
 - [Sump Pump Monitoring 101](sump-pump-monitoring-101.md)
 - [Freezer Monitoring 101](freezer-monitoring-101.md)
 
-Coming soon:
+Coming Soon 
 
 - Dehumidifier Monitoring 101
 - Driveway Alert 101
 
 ## Current Projects
-
-Coming soon:
 
 - Freezer Monitor
 - Sump Pump Monitor
