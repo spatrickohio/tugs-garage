@@ -59,3 +59,31 @@ Technology should make homeowners more aware, more informed, and more prepared.
 Awareness before automation.
 
 Always.
+
+## Reliability Matters
+
+Automation should never become a new failure point.
+
+A monitoring system should continue to provide value even when parts of the system fail.
+
+Networks fail.
+
+Sensors fail.
+
+Power supplies fail.
+
+Communications fail.
+
+Software fails.
+
+No sensor is perfect.
+
+No communication method is perfect.
+
+No monitoring system is perfect.
+
+The goal is not perfection.
+
+The goal is to know more tomorrow than you know today.
+
+Designing with failure in mind creates systems that are more trustworthy, more maintainable, and more useful over the long term.
