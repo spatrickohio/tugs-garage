@@ -1,5 +1,11 @@
 # Freezer Monitoring 101
 
+## Related Content
+
+🎙️ Tug's Garage Radio Episode — https://youtu.be/Q-0NJsEaq6w?si=HszfzOvs7cgdbOhc
+
+🎥 Learning 101 Video — https://youtu.be/dTdRQeamIN0?si=luqUe1BGuO9n4xD0
+
 A freezer is one of those appliances that most homeowners never think about until it fails.
 
 The problem is that a freezer can fail silently.
