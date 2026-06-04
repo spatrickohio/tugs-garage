@@ -23,10 +23,10 @@ This site documents practical home monitoring projects, predictive maintenance i
 ## Learning 101
 
 - [Sump Pump Monitoring 101](sump-pump-monitoring-101.md)
+- [Freezer Monitoring 101](freezer-monitoring-101.md)
 
 Coming soon:
 
-- Freezer Monitoring 101
 - Dehumidifier Monitoring 101
 - Driveway Alert 101
 
