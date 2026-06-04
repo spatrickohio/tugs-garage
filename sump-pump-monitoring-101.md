@@ -1,5 +1,11 @@
 # Sump Pump Monitoring 101
 
+## Related Content
+
+🎙️ Tug's Garage Radio Episode — Coming Monday 06-08-26
+
+🎥 Learning 101 Video — Coming Wednesday 06-10-26
+
 A sump pump is one of the most important pieces of equipment in a home.
 
 The problem is that most homeowners don't know there is a problem until water is already on the floor.
