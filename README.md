@@ -24,7 +24,7 @@ This site documents practical home monitoring projects, predictive maintenance i
 
 - [Why I Monitor Things Before They Break](why-i-monitor-things-before-they-break.md)
 
-- Coming soon
+Coming soon
 
 - Understanding Failure Modes
 - Awareness Before Automation
