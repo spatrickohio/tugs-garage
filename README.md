@@ -1,16 +1,17 @@
-Tug's Garage
+
+# Tug's Garage
 
 Practical Home Monitoring, Awareness, and Predictive Maintenance
 
-Philosophy
+Welcome to Tug's Garage.
 
-Technology should help homeowners become more aware, more informed, and more prepared.
+This site documents practical home monitoring projects, predictive maintenance ideas, Home Assistant integrations, E-S-P Home devices, and the philosophy behind building reliable systems that help homeowners understand what their homes are doing before problems become emergencies.
 
-The goal is not to create the smartest house.
+## Start Here
 
-The goal is to create a house that is easier to understand, easier to maintain, and less likely to surprise you at 2 AM.
+- [Why I Monitor Things Before They Break] (why-i-monitor-things-before-they-break.md)
 
-Core Principles
+## Core Philosophy
 
 - Awareness Before Automation
 - Monitoring Before Control
@@ -19,26 +20,21 @@ Core Principles
 - Learn From Patterns
 - Failure Mode Thinking
 
-Current Project Categories
+## Learning 101
 
-Critical Infrastructure
+Coming soon:
 
-- Sump Pump Monitoring
-- Freezer Monitoring
-- Refrigerator Monitoring
-- Leak Detection
-- Well Pump Monitoring
-- HVAC Monitoring
+- Freezer Monitoring 101
+- Sump Pump Monitoring 101
+- Dehumidifier Monitoring 101
+- Driveway Alert 101
 
-Home Awareness
+## Current Projects
 
-- Driveway Alerts
-- Garage Door Monitoring
-- Chicken Coop Monitoring
-- Dehumidifier Monitoring
-- Mailbox Notifications
-- Occupancy Awareness
+Coming soon:
 
-Tug's Garage Rule
-
-What useful information will I know tomorrow that I didn't know yesterday?
+- Freezer Monitor
+- Sump Pump Monitor
+- Well Pump Monitor
+- Driveway Alert
+- Chicken Coop Door
