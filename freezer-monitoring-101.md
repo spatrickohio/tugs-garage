@@ -2,9 +2,11 @@
 
 ## Related Content
 
-🎙️ Tug's Garage Radio Episode — https://youtu.be/Q-0NJsEaq6w?si=HszfzOvs7cgdbOhc
+## Related Content
 
-🎥 Learning 101 Video — https://youtu.be/dTdRQeamIN0?si=luqUe1BGuO9n4xD0
+🎙️ [Watch the Tug's Garage Radio Episode](https://youtu.be/Q-0NJsEaq6w)
+
+🎥 [Watch the Learning 101 Video](https://youtu.be/dTdRQeamIN0)
 
 A freezer is one of those appliances that most homeowners never think about until it fails.
 
