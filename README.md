@@ -33,16 +33,17 @@ Coming soon
 
 - [Sump Pump Monitoring 101](sump-pump-monitoring-101.md)
 - [Freezer Monitoring 101](freezer-monitoring-101.md)
+- [Dehumidifier Monitoring 101](dehumidifier-monitoring-101.md)
 
 Coming Soon 
 
-- Dehumidifier Monitoring 101
 - Driveway Alert 101
 
 ## Current Projects
 
 - Freezer Monitor
 - Sump Pump Monitor
+- Dehumidifier Monitor 
 - Well Pump Monitor
 - Driveway Alert
 - Chicken Coop Door
