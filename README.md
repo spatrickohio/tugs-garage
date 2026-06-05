@@ -5,7 +5,7 @@ Practical Home Monitoring, Awareness, and Predictive Maintenance
 
 Welcome to Tug's Garage.
 
-This site documents practical home monitoring projects, predictive maintenance ideas, Home Assistant integrations, E-S-P Home devices, and the philosophy behind building reliable systems that help homeowners understand what their homes are doing before problems become emergencies.
+This site documents practical home monitoring projects, predictive maintenance ideas, Home Assistant integrations, ESPHome devices, and the philosophy behind building reliable systems that help homeowners understand what their homes are doing before problems become emergencies.
 
 ## Start Here
 
