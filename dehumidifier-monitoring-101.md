@@ -24,7 +24,7 @@ The machine can continue running but no longer remove moisture effectively.
 
 The purpose of dehumidifier monitoring is awareness before moisture problems become expensive repairs.
 
-What We Want To Know
+## What We Want To Know
 
 - Is the dehumidifier running?
 - Has the bucket filled up?
@@ -33,43 +33,43 @@ What We Want To Know
 - Is the unit running normally?
 - Is performance changing over time?
 
-Monitoring Methods
+## Monitoring Methods
 
-Power Monitoring
+## Power Monitoring
 
 Power monitoring allows us to determine when the unit is running and identify changes in operating behavior.
 
-Humidity Monitoring
+## Humidity Monitoring
 
 Humidity trends help us verify whether the dehumidifier is actually removing moisture from the space.
 
-Runtime Tracking
+## Runtime Tracking
 
 Tracking runtime helps identify unusual operating patterns and potential performance issues.
 
-Failure Modes
+## Failure Modes
 
 Bucket Full
 
 The dehumidifier shuts off and humidity begins to rise.
 
-Power Loss
+## Power Loss
 
 The unit stops operating completely.
 
-Mechanical Failure
+## Mechanical Failure
 
 The unit may run differently or stop operating normally.
 
-Reduced Performance
+## Reduced Performance
 
 Humidity remains elevated despite normal operation.
 
-Tug's Garage Philosophy
+## Tug's Garage Philosophy
 
 This project follows the Tug's Garage principle of:
 
-Awareness Before Automation.
+## Awareness Before Automation.
 
 The goal is not necessarily to control the dehumidifier.
 
