@@ -1,12 +1,12 @@
-Dehumidifier Monitoring 101
+# Dehumidifier Monitoring 101
 
-Related Content
+## Related Content
 
 🎙️ Tug's Garage Radio Episode — Coming Soon
 
 🎥 Learning 101 Video — Coming Soon
 
-Why Monitor a Dehumidifier?
+## Why Monitor a Dehumidifier?
 
 A dehumidifier is one of those appliances that quietly protects a home every day.
 
