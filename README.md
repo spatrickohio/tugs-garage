@@ -27,14 +27,17 @@ This site documents practical home monitoring projects, predictive maintenance i
 - Learn From Patterns
 - Failure Mode Thinking
 
+
 ## Featured Articles
 
-- [Why I Monitor Things Before They Break](why-i-monitor-things-before-they-break.md)
+- Why I Build What I Build
+- Why I Monitor Things Before They Break
 
-Coming soon
+### Coming Soon
 
 - Understanding Failure Modes
 - Awareness Before Automation
+- Monitoring Before Control
 
 ## Learning 101
 
