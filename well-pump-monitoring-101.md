@@ -12,6 +12,14 @@ Pressure changes.
 
 Runtime changes.
 
+Extended run times.
+
+Unexpected power consumption.
+
+Loss of pressure.
+
+These patterns often appear days, weeks, or even months before complete failure occurs.
+
 Short cycling.
 
 Extended run times.
