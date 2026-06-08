@@ -118,6 +118,68 @@ Pressure data often reveals developing issues before they become emergencies.
 
 ---
 
+## Current Hardware Candidates
+
+The exact hardware selection for this project is still under evaluation.
+
+The goal is to balance reliability, accuracy, safety, and ease of implementation.
+
+Potential hardware under consideration includes:
+
+### Pressure Monitoring
+
+Current candidate:
+
+- IFM pressure transducer currently available from previous projects
+
+Considerations:
+
+- Pressure range suitability
+- Resolution within the operating range of the well system
+- Long-term reliability
+- Ease of integration with ESPHome and Home Assistant
+
+### Power Monitoring
+
+Current candidates:
+
+- Current Transformers (CTs)
+- Alternative non-invasive monitoring methods
+
+Considerations:
+
+- Installation complexity
+- Measurement accuracy
+- Safety
+- Homeowner accessibility
+
+### Flow Monitoring
+
+Potential candidates:
+
+- Inline flow sensors
+- Water meter pulse outputs
+- Alternative flow measurement solutions
+
+Considerations:
+
+- Accuracy
+- Pressure loss
+- Installation requirements
+- Long-term reliability
+
+### Controller Hardware
+
+Current candidates:
+
+- ESP32
+- ESPHome
+- Home Assistant
+
+The final hardware selection will be determined through testing and evaluation as the project develops.
+
+---
+
 ## Power Monitoring
 
 Power monitoring provides insight into how hard the pump is working.
