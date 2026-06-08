@@ -50,8 +50,9 @@ This site documents practical home monitoring projects, predictive maintenance i
 - [Freezer Monitoring 101](freezer-monitoring-101.md)
 - [Sump Pump Monitoring 101](sump-pump-monitoring-101.md)
 - [Dehumidifier Monitoring 101](dehumidifier-monitoring-101.md)
+- [Well Pump Monitoring 101](well-pump-monitoring-101.md)
 
-Coming Soon 
+Coming Soon
 
 - Driveway Alert 101
 
