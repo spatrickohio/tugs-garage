@@ -9,6 +9,7 @@ This site documents practical home monitoring projects, predictive maintenance i
 
 ## Start Here
 
+- Why I Build What I Build
 - [Why I Monitor Things Before They Break](why-i-monitor-things-before-they-break.md)
 
 
