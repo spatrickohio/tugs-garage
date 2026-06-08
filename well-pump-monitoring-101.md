@@ -74,6 +74,32 @@ Over time they establish a baseline that helps identify abnormal behavior.
 
 ---
 
+## Proposed Architecture
+
+The exact design of this project is still evolving as testing continues.
+
+The current concept is centered around collecting information from multiple sources and combining that information inside Home Assistant.
+
+Potential monitoring inputs include:
+
+- Pressure transducer
+- Power monitoring
+- Flow monitoring
+- Runtime analysis
+- Historical trends
+
+The goal is not to monitor a single value.
+
+The goal is to understand how the entire well system behaves over time.
+
+By combining multiple data sources, abnormal conditions can often be identified before complete failure occurs.
+
+As testing continues, this architecture may evolve based on reliability, accuracy, safety, and ease of implementation.
+
+The final design will prioritize awareness, simplicity, and practical long-term maintenance.
+
+---
+
 ## Pressure Monitoring
 
 Pressure is one of the most valuable indicators of system health.
