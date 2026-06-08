@@ -11,6 +11,13 @@ This site documents practical home monitoring projects, predictive maintenance i
 
 - [Why I Monitor Things Before They Break](why-i-monitor-things-before-they-break.md)
 
+## Philosophy
+
+- [Why I Build What I Build](why-i-build-what-i-build.md)
+- [Why I Monitor Things](why-i-monitor-things.md)
+- [Awareness Before Failure](awareness-before-failure.md)
+- [Reliability Over Complexity](reliability-over-complexity.md)
+
 ## Core Philosophy
 
 - Awareness Before Automation
