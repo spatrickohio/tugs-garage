@@ -145,23 +145,29 @@ The objective is awareness, not alarm fatigue.
 
 ---
 
-## Why I Am Not Using CTs
+## Power Monitoring Considerations
 
-Many monitoring projects use current transformers (CTs) to measure electrical load.
+Power monitoring is one of the most valuable tools available for understanding well pump behavior.
 
-CTs are a proven and effective method for monitoring equipment power consumption.
+For this project, I am currently evaluating multiple methods of measuring pump operation and electrical load.
 
-As an electrician, I have no issue using CTs when the application calls for them.
+One option is the use of current transformers (CTs), which are a proven and widely used method for monitoring electrical equipment.
 
-However, installing CTs often requires opening electrical panels and working around energized conductors.
+CTs can provide valuable information including:
 
-For many homeowners, that is not practical and may not be safe.
+- Pump runtime
+- Electrical load
+- Operating patterns
+- Potential signs of mechanical wear
+- Changes in system demand
 
-For this version of the project, I am exploring monitoring methods that provide useful information while minimizing electrical exposure and installation complexity.
+The primary drawback is that CT installation often requires access to electrical panels or conductors, which may not be appropriate for every homeowner.
 
-The goal is to create solutions that more homeowners can realistically implement and maintain.
+Because of this, I am also exploring alternative monitoring methods that may provide useful information while reducing installation complexity.
 
-Future versions of this project may include CT-based monitoring if additional information or accuracy justifies the added complexity.
+At the time of writing, CT-based monitoring remains the most likely solution for this project.
+
+As the project develops, monitoring methods may change based on testing, accuracy, safety, and ease of implementation.
 
 If homeowners are not comfortable working inside electrical equipment, they should consult a qualified electrician.
 
