@@ -2,7 +2,9 @@
 
 ## Related Content
 
-🎙️ Tug's Garage Radio Episode — Coming Monday 06-08-26
+## Related Content
+
+🎙️ [Tug's Garage Radio Episode — Sump Pump Monitoring](https://youtu.be/DCzZ_Z_LSP8?si=47qibWGIbHRUjubs)
 
 🎥 Learning 101 Video — Coming Wednesday 06-10-26
 
