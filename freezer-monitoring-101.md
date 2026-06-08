@@ -2,8 +2,6 @@
 
 ## Related Content
 
-## Related Content
-
 🎙️ [Watch the Tug's Garage Radio Episode](https://youtu.be/Q-0NJsEaq6w)
 
 🎥 [Watch the Learning 101 Video](https://youtu.be/dTdRQeamIN0)
