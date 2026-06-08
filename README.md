@@ -21,7 +21,7 @@ This site documents practical home monitoring projects, predictive maintenance i
 - [Awareness Before Failure](awareness-before-failure.md)
 - [Reliability Over Complexity](reliability-over-complexity.md)
 - [Understanding Failure Modes](understanding-failure-modes.md)
-- 
+  
 ## Core Philosophy
 
 - Awareness Before Automation
