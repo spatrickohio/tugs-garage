@@ -31,8 +31,8 @@ Coming soon
 
 ## Learning 101
 
-- [Sump Pump Monitoring 101](sump-pump-monitoring-101.md)
 - [Freezer Monitoring 101](freezer-monitoring-101.md)
+- [Sump Pump Monitoring 101](sump-pump-monitoring-101.md)
 - [Dehumidifier Monitoring 101](dehumidifier-monitoring-101.md)
 
 Coming Soon 
