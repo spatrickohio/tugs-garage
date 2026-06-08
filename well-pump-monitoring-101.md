@@ -100,6 +100,16 @@ The final design will prioritize awareness, simplicity, and practical long-term 
 
 ---
 
+## Current Hardware Candidates
+
+The exact hardware selection for this project is still under evaluation.
+
+The goal is to balance reliability, accuracy, safety, and ease of implementation.
+
+Potential hardware under consideration includes:
+
+---
+
 ## Pressure Monitoring
 
 Pressure is one of the most valuable indicators of system health.
@@ -117,14 +127,6 @@ Monitoring pressure can help identify:
 Pressure data often reveals developing issues before they become emergencies.
 
 ---
-
-## Current Hardware Candidates
-
-The exact hardware selection for this project is still under evaluation.
-
-The goal is to balance reliability, accuracy, safety, and ease of implementation.
-
-Potential hardware under consideration includes:
 
 ### Pressure Monitoring
 
