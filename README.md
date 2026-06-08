@@ -9,9 +9,9 @@ This site documents practical home monitoring projects, predictive maintenance i
 
 ## Start Here
 
-- Why I Build What I Build
+- [Why I Build What I Build](why-i-build-what-i-build.md)
 - [Why I Monitor Things Before They Break](why-i-monitor-things-before-they-break.md)
-
+- [Awareness Before Automation](awareness-before-automation.md)
 
 
 ## Philosophy
