@@ -79,13 +79,13 @@ I am interested in:
 
 For collaboration inquiries, project discussions, product testing opportunities, or technical feedback:
 
-📧 tugsgarage@gmail.com
+📧 [tugsgarage@gmail.com](mailto:tugsgarage@gmail.com)
+
 
 ## Connect
 
-- GitHub: https://github.com/spatrickohio
-- Portfolio: https://spatrickohio.github.io/tugs-garage/
-
+- [GitHub Profile](https://github.com/spatrickohio)
+- [Tug's Garage Portfolio](https://spatrickohio.github.io/tugs-garage/)
 ---
 
 Tug's Garage is dedicated to practical home monitoring, awareness, predictive maintenance, and homeowner-first design. The goal is simple: help homeowners understand what their homes are doing before problems become emergencies.
