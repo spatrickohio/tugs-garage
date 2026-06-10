@@ -64,3 +64,28 @@ Coming Soon
 - Well Pump Monitor
 - Driveway Alert
 - Chicken Coop Door
+
+## Collaboration & Contact
+
+I am an industrial electrician documenting real-world Home Assistant, ESPHome, and automation projects focused on reliability, predictive maintenance, and practical solutions.
+
+I am interested in:
+
+- Product testing and evaluation
+- Real-world field testing
+- Technical feedback and documentation
+- Home Assistant and ESPHome integrations
+- Collaboration opportunities with manufacturers and developers
+
+For collaboration inquiries, project discussions, product testing opportunities, or technical feedback:
+
+📧 tugsgarage@gmail.com
+
+## Connect
+
+- GitHub: https://github.com/spatrickohio
+- Portfolio: https://spatrickohio.github.io/tugs-garage/
+
+---
+
+Tug's Garage is dedicated to practical home monitoring, awareness, predictive maintenance, and homeowner-first design. The goal is simple: help homeowners understand what their homes are doing before problems become emergencies.
