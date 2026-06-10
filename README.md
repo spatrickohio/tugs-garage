@@ -86,6 +86,7 @@ For collaboration inquiries, project discussions, product testing opportunities,
 
 - [GitHub Profile](https://github.com/spatrickohio)
 - [Tug's Garage Portfolio](https://spatrickohio.github.io/tugs-garage/)
+  
 ---
 
 Tug's Garage is dedicated to practical home monitoring, awareness, predictive maintenance, and homeowner-first design. The goal is simple: help homeowners understand what their homes are doing before problems become emergencies.
