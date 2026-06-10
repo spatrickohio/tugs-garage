@@ -85,7 +85,7 @@ For collaboration inquiries, project discussions, product testing opportunities,
 ## Connect
 
 - [GitHub Profile](https://github.com/spatrickohio)
-- [Tug's Garage Portfolio](https://spatrickohio.github.io/tugs-garage/)
+- [Portfolio Site](https://spatrickohio.github.io/tugs-garage/)
   
 ---
 
