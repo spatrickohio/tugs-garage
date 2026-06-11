@@ -4,7 +4,7 @@
 
 🎙️ [Tug's Garage Radio Episode — Sump Pump Monitoring](https://youtu.be/DCzZ_Z_LSP8?si=47qibWGIbHRUjubs)
 
-🎥 Learning 101 Video — Coming Wednesday 06-10-26
+🎬 [Tug's Garage Learning 101 — Sump Pump Monitoring 101](https://youtu.be/43Kwfyc4l6Q?si=loVMgmErIi182WYd)
 
 A sump pump is one of the most important pieces of equipment in a home.
 
