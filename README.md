@@ -1,3 +1,4 @@
+[![Tug's Garage Banner](images/tugs-garage-banner.jpg)](https://www.youtube.com/@tugsgarage)
 
 # Tug's Garage
 
