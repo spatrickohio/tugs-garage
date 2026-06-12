@@ -2,11 +2,17 @@
 
 ## Related Videos
 
-**Tug's Garage Radio:** Coming Soon
+📻 **Tug's Garage Radio:** Coming Soon
 
-**Learning 101 Video:** Coming Soon
+🎓 **Learning 101 Video:** Coming Soon
 
 ---
+
+> **Project Status**
+>
+> This project is currently in the research and development phase.
+>
+> Hardware selection, sensor placement, dashboard design, and alert logic are still being evaluated through real-world testing.
 
 ## The Problem
 
@@ -15,6 +21,8 @@ Most homeowners have very little visibility into how their well system is operat
 The well pump is one of the most important pieces of equipment in the home, yet many people do not know there is a problem until they lose water completely.
 
 Unlike a freezer, dehumidifier, or sump pump, a well system often provides warning signs before failure occurs.
+
+Some common warning signs include:
 
 - Pressure changes
 - Runtime changes
@@ -35,13 +43,13 @@ Many are preventable.
 
 The goal of this project is not to automate the well pump.
 
-The goal is to understand how the well system behaves.
+The goal is to better understand how the well system behaves.
 
-By monitoring power, runtime, pressure, and eventually flow, we can start building a normal baseline.
+By monitoring power, runtime, pressure, and eventually flow, we can establish a normal operating baseline.
 
 Once we understand normal behavior, abnormal behavior becomes easier to recognize.
 
-This project is about awareness before failure.
+This project focuses on awareness before failure.
 
 ---
 
@@ -51,7 +59,7 @@ Every Tug's Garage monitoring project starts with the same question:
 
 **What can fail?**
 
-A well system may have issues with:
+A well system may experience problems involving:
 
 - The pump motor
 - The pressure tank
@@ -60,29 +68,31 @@ A well system may have issues with:
 - Plumbing leaks
 - Dry well conditions
 - Electrical problems
-- Worn mechanical parts
-- Water usage patterns
+- Worn mechanical components
+- Excessive water demand
 
-Monitoring gives us a way to see changes before the system completely fails.
+Monitoring gives us a way to recognize changes before complete failure occurs.
 
 ---
 
 ## What Can We Measure?
 
-A well pump monitoring system can collect several useful pieces of information.
+Several measurements can provide valuable insight into the health of a well system.
+
+These include:
 
 - Pump runtime
 - Pump cycle count
 - Power consumption
 - System pressure
 - Pressure recovery time
-- Flow rate
-- Water usage history
+- Water flow
+- Historical trends
 - Abnormal operating patterns
 
-One sensor may not tell the whole story.
+One sensor rarely tells the entire story.
 
-Several measurements together can give a much better picture of what is happening.
+Multiple measurements working together provide a much clearer picture of what is happening.
 
 ---
 
@@ -92,27 +102,27 @@ This project is being built in layers.
 
 ### Layer 1: Power and Runtime Monitoring
 
-The first layer is knowing when the pump runs.
+The first layer is simply knowing when the pump runs.
 
-This allows us to track:
+This allows us to monitor:
 
-- How often the pump starts
-- How long the pump runs
-- Whether the pump is short cycling
-- Whether the pump is running longer than normal
+- Pump runtime
+- Cycle frequency
+- Short cycling
+- Long run times
+- General operating patterns
 
 ### Layer 2: Pressure Monitoring
 
-The second layer is monitoring system pressure.
+The second layer focuses on understanding system pressure.
 
-Pressure monitoring can help show:
+Pressure monitoring can reveal:
 
-- Normal cut-in pressure
-- Normal cut-out pressure
-- Pressure recovery time
-- Pressure drop when the pump is off
-- Possible pressure tank issues
-- Possible leaks
+- Pressure tank problems
+- Pressure switch issues
+- Pressure recovery performance
+- Possible plumbing leaks
+- Changes in pump performance
 
 ### Layer 3: Flow Monitoring
 
@@ -122,112 +132,142 @@ Flow monitoring helps answer one important question:
 
 **Where is the water going?**
 
-Flow monitoring may help detect:
+Flow data may help identify:
 
 - Hidden leaks
-- Unexpected water usage
-- Continuous flow
-- Abnormal water demand
-- Irrigation or outside water use
+- Continuous water usage
+- Irrigation demand
+- Unexpected consumption patterns
 
-### Layer 4: Predictive Trends
+### Layer 4: Historical Trends
 
-The final layer is using history and trends.
+The final layer focuses on historical analysis.
 
-Once the system has enough data, we can begin comparing current behavior to normal behavior.
+Over time, collected data can establish a baseline and help identify subtle changes before they become major failures.
 
-This could help detect problems before they become emergencies.
+Each layer should provide useful information on its own.
+
+The system should remain valuable even if every sensor has not yet been installed.
 
 ---
+
+## Proposed Architecture
+
+The current concept combines several data sources within Home Assistant.
+
+Potential inputs include:
+
+- Power monitoring
+- Runtime analysis
+- Pressure monitoring
+- Flow monitoring
+- Historical trend tracking
+
+The goal is not to monitor a single value.
+
+The goal is to understand how the entire well system behaves over time.
+
+As testing continues, the architecture may evolve based on reliability, accuracy, safety, and ease of installation.
 
 ## Hardware Under Evaluation
 
 The hardware for this project is still being evaluated.
 
-Possible hardware includes:
+Possible components include:
 
-- CT-based power monitoring
+### Power Monitoring Hardware
+
+- Current transformers (CTs)
+- Energy monitoring boards
+- CircuitSetup energy monitors
+- ESPHome-compatible monitoring solutions
+
+### Pressure Monitoring Hardware
+
+- Pressure transducers
+- Analog monitoring inputs
+- Pressure trend logging
+
+### Flow Monitoring Hardware
+
+- Inline flow sensors
+- Pulse-output water meters
+- Alternative flow measurement methods
+
+### Controller Hardware
+
 - ESP32
 - ESPHome
 - Home Assistant
-- Pressure transducer
-- Flow sensor
-- Energy monitoring board
 
-The final hardware choice will depend on reliability, safety, accuracy, and how practical it is to install.
+The final hardware selection will be determined through testing and real-world evaluation.
 
 ---
 
 ## Power Monitoring
 
-Power monitoring tells us when the pump is running.
+Power monitoring provides insight into pump operation without modifying the well system itself.
 
-It may also help show how the pump is behaving electrically.
-
-Power monitoring may help identify:
+Power data can help identify:
 
 - Pump start events
-- Long run times
+- Excessive runtime
 - Short cycling
 - Increased motor load
-- Abnormal power usage
-- Possible pump wear
+- Abnormal operating patterns
 
-For a 240-volt well pump, CT monitoring is usually a better option than a smart plug.
+For many 240-volt well pumps, CT monitoring offers a practical non-invasive monitoring method.
 
 ---
 
 ## Pressure Monitoring
 
-Pressure monitoring is one of the most valuable parts of this project.
+Pressure is one of the most valuable indicators of well system health.
 
-A healthy well system should operate within a predictable pressure range.
+A properly functioning system should operate within a predictable pressure range.
 
-Pressure monitoring may help detect:
+Pressure monitoring may help identify:
 
-- Pressure tank problems
+- Pressure tank issues
 - Pressure switch problems
-- Leaks
+- Plumbing leaks
 - Poor pressure recovery
-- Pump performance changes
-- Loss of pressure
+- Changes in pump performance
 
-Pressure data gives context that power monitoring alone cannot provide.
+Pressure data provides context that power monitoring alone cannot provide.
 
 ---
 
 ## Flow Monitoring
 
-Flow monitoring is a future expansion for this project.
+Flow monitoring is currently considered a future expansion.
 
-Power monitoring can tell us that the pump is running.
+Power monitoring can tell us when the pump is running.
 
 Pressure monitoring can tell us what the system pressure is doing.
 
-Flow monitoring can help tell us whether water is actually moving.
+Flow monitoring can help determine whether water is actually moving through the system.
 
-That matters because a pump running with no useful water movement could indicate a serious problem.
+This additional information may improve troubleshooting and leak detection capabilities.
 
 ---
 
 ## Alert Strategy
 
-The purpose of alerts is not to create noise.
+Monitoring is only useful if it provides actionable information.
 
-The purpose is to provide useful information when something changes.
-
-Possible alerts include:
+Possible alert conditions include:
 
 - Pump running too long
-- Pump short cycling
+- Excessive cycle frequency
+- Short cycling
 - Pressure not recovering normally
-- Pressure dropping while pump is off
-- Pump running unexpectedly
+- Pressure dropping while the pump is off
 - Continuous water flow
-- Loss of pressure
-- Abnormal power usage
+- Unexpected pump operation
+- Abnormal power consumption
 
-The goal is awareness, not alarm fatigue.
+The objective is awareness, not alarm fatigue.
 
 ---
 
@@ -237,36 +277,36 @@ The goal is awareness, not alarm fatigue.
 
 Well pump monitoring may involve:
 
-- 240-volt circuits
 - Electrical panels
+- 240-volt circuits
 - Current transformers
 - Pressure plumbing
 - Water system components
 
-Homeowners should not open electrical panels or install CTs unless they are qualified and understand the hazards involved.
+Homeowners should not work inside electrical panels or install CTs unless they are qualified and understand the hazards involved.
 
 When in doubt, hire a licensed electrician or qualified professional.
 
-This project is for education, testing, and documentation.
+This project is intended for education, testing, and documentation.
 
 ---
 
 ## Future Improvements
 
-Possible future improvements include:
+Potential future enhancements include:
 
-- Better pressure trend tracking
+- Improved pressure trend analysis
 - Flow-based diagnostics
 - Predictive maintenance alerts
-- Water usage history
+- Water usage tracking
 - Leak detection logic
-- Well pump dashboard
+- Dedicated well system dashboards
 - Integration with whole-house water monitoring
-- Possible shutdown or interlock concepts
+- Additional failure detection strategies
 
 The system does not need to be perfect on day one.
 
-Each layer adds more useful information.
+Each layer adds additional understanding.
 
 ---
 
@@ -280,9 +320,9 @@ Understanding leads to better decisions.
 
 Most equipment does not fail without warning.
 
-The warning signs are usually there.
+The warning signs are often there.
 
-We just are not measuring them yet.
+We simply are not measuring them yet.
 
 At Tug's Garage, the goal is not to automate everything.
 
