@@ -1,4 +1,4 @@
-[![Tug's Garage Banner](images/tugs-garage-banner.jpg)](https://www.youtube.com/@tugsgarage)
+[![Tug's Garage LLC — Independent Product Testing & Field Evaluation](tugs-garage-llc-banner.png)](https://spatrickohio.github.io/tugs-garage/)
 
 # Tug's Garage
 
