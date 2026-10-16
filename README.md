@@ -1,12 +1,14 @@
 [![Tug's Garage LLC — Independent Product Testing & Field Evaluation](tugs-garage-llc-banner.png)](https://spatrickohio.github.io/tugs-garage/)
 
-# Tug's Garage
+# Tug's Garage LLC 
 
-Practical Home Monitoring, Awareness, and Predictive Maintenance
+Independent Product Testing & Field Evaluation
 
-Welcome to Tug's Garage.
+Welcome to Tug's Garage LLC.
 
-This site documents practical home monitoring projects, predictive maintenance ideas, Home Assistant integrations, ESPHome devices, and the philosophy behind building reliable systems that help homeowners understand what their homes are doing before problems become emergencies.
+We provide independent product testing and field evaluation, helping manufacturers understand how their products perform in real-world use. Our focus includes smart-home devices, Home Assistant integrations, monitoring systems, and practical installation, usability, and reliability feedback.
+
+You'll also find our original home monitoring projects, educational articles, and practical approaches to predictive maintenance. Our philosophy remains the same: Awareness Before Automation.
 
 ## Start Here
 
