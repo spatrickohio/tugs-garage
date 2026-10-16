@@ -10,6 +10,11 @@ We provide independent product testing and field evaluation, helping manufacture
 
 You'll also find our original home monitoring projects, educational articles, and practical approaches to predictive maintenance. Our philosophy remains the same: Awareness Before Automation.
 
+## Professional Services
+
+[Explore Our Product Testing & Field Evaluation Services](professional-services.md)
+
+
 ## Start Here
 
 - [Why I Build What I Build](why-i-build-what-i-build.md)
