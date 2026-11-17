@@ -1,100 +1,69 @@
 [![Tug's Garage LLC — Independent Product Testing & Field Evaluation](tugs-garage-llc-banner.png)](https://spatrickohio.github.io/tugs-garage/)
 
-# Tug's Garage LLC 
+# Tug's Garage LLC
 
-Independent Product Testing & Field Evaluation
+**Independent Product Testing & Field Evaluation**
 
-Welcome to Tug's Garage LLC.
+**Real-world testing. Practical electrical experience. Useful manufacturer feedback.**
 
-We provide independent product testing and field evaluation, helping manufacturers understand how their products perform in real-world use. Our focus includes smart-home devices, Home Assistant integrations, monitoring systems, and practical installation, usability, and reliability feedback.
+Tug's Garage LLC works with manufacturers to evaluate products in actual operating environments. We focus on how equipment performs, integrates, and holds up in everyday use—not just what a product claims on the box.
 
-You'll also find our original home monitoring projects, educational articles, and practical approaches to predictive maintenance. Our philosophy remains the same: Awareness Before Automation.
+Our work combines hands-on product evaluation, practical electrical measurements where appropriate, usability and reliability observations, and clear documentation of findings and limitations.
 
-## Professional Services
+**[Explore Professional Evaluation Services](professional-services.md)** · **[Discuss an Evaluation](mailto:tugsgarage@gmail.com)**
 
-[Explore Our Product Testing & Field Evaluation Services](professional-services.md)
+## What We Evaluate
 
+- **Smart-home and connected devices:** Zigbee, Matter, Wi-Fi, Home Assistant integrations, sensors, smart plugs, switches, and monitoring equipment
+- **Tools and workshop equipment:** Hand tools, electrical and automotive tools, equipment features, ergonomics, and real-world performance
+- **Automotive products and accessories:** Selected components, fitment considerations, installation practicality, and operation where suitable
+- **Electrical and monitoring applications:** Practical measurements, controls, troubleshooting, reliability, and equipment behavior
 
-## Start Here
+Evaluation scope depends on the product, available test equipment, and agreed objectives.
+
+## Working With Manufacturers
+
+We welcome inquiries about **paid, independent product evaluation projects**. Depending on the assignment, deliverables may include a private field evaluation report, practical test observations, measurements, photographs, and recommendations. Public reviews or video demonstrations are optional—not a requirement of a professional evaluation.
+
+Tug's Garage LLC has completed a formal field evaluation of the Third Reality Gen3 Smart Plug and delivered the report directly to the manufacturer. Manufacturer-specific reports are not published without appropriate permission.
+
+**[Learn how we work with manufacturers](professional-services.md)**
+
+## Experience & Approach
+
+Tug's Garage draws on extensive industrial electrical maintenance, troubleshooting, equipment integration, and practical hands-on experience. We distinguish manufacturer specifications, observed behavior, and actual measurements. Our evaluations are independent field assessments, **not certified laboratory testing**.
+
+Our guiding principles remain simple: **Awareness Before Automation. Monitoring Before Control. Reliability Over Complexity.**
+
+## Articles & Learning
+
+### Our Approach
 
 - [Why I Build What I Build](why-i-build-what-i-build.md)
 - [Why I Monitor Things Before They Break](why-i-monitor-things-before-they-break.md)
-- [Awareness Before Automation](awareness-before-automation.md)
-
-
-## Philosophy
-
-- [Why I Build What I Build](why-i-build-what-i-build.md)
-- [Why I Monitor Things](why-i-monitor-things-before-they-break.md)
 - [Awareness Before Failure](awareness-before-failure.md)
-- [Reliability Over Complexity](reliability-over-complexity.md)
 - [Understanding Failure Modes](understanding-failure-modes.md)
 - [Awareness Before Automation](awareness-before-automation.md)
 - [Monitoring Before Control](monitoring-before-control.md)
-  
-## Core Philosophy
+- [Reliability Over Complexity](reliability-over-complexity.md)
 
-- Awareness Before Automation
-- Monitoring Before Control
-- Homeowner First Design
-- Reliability Over Complexity
-- Learn From Patterns
-- Failure Mode Thinking
-
-
-## Featured Articles
-
-- Why I Build What I Build
-- Why I Monitor Things Before They Break
-
-### Coming Soon
-
-- Understanding Failure Modes
-- Awareness Before Automation
-- Monitoring Before Control
-
-## Learning 101
+### Home Monitoring 101
 
 - [Freezer Monitoring 101](freezer-monitoring-101.md)
 - [Sump Pump Monitoring 101](sump-pump-monitoring-101.md)
 - [Dehumidifier Monitoring 101](dehumidifier-monitoring-101.md)
 - [Well Pump Monitoring 101](well-pump-monitoring-101.md)
 
-Coming Soon
+These articles share the practical monitoring philosophy behind our evaluations and projects.
 
-- Driveway Alert 101
+## Contact Tug's Garage LLC
 
-## Current Projects
+**Manufacturer evaluation inquiries, project discussions, and technical collaborations:**
 
-- Freezer Monitor
-- Sump Pump Monitor
-- Dehumidifier Monitor 
-- Well Pump Monitor
-- Driveway Alert
-- Chicken Coop Door
+**Email:** [tugsgarage@gmail.com](mailto:tugsgarage@gmail.com)
 
-## Collaboration & Contact
+**[Professional Services](professional-services.md)** · **[YouTube](https://youtube.com/@tugsgarage)** · **[GitHub](https://github.com/spatrickohio)**
 
-I am an industrial electrician documenting real-world Home Assistant, ESPHome, and automation projects focused on reliability, predictive maintenance, and practical solutions.
-
-I am interested in:
-
-- Product testing and evaluation
-- Real-world field testing
-- Technical feedback and documentation
-- Home Assistant and ESPHome integrations
-- Collaboration opportunities with manufacturers and developers
-
-For collaboration inquiries, project discussions, product testing opportunities, or technical feedback:
-
-📧 [tugsgarage@gmail.com](mailto:tugsgarage@gmail.com)
-
-
-## Connect
-
-- [GitHub Profile](https://github.com/spatrickohio)
-- [Portfolio Site](https://spatrickohio.github.io/tugs-garage/)
-  
 ---
 
-Tug's Garage is dedicated to practical home monitoring, awareness, predictive maintenance, and homeowner-first design. The goal is simple: help homeowners understand what their homes are doing before problems become emergencies.
+*Ain't nothing to it but to do it!*
