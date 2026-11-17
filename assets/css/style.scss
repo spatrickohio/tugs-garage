@@ -1,9 +1,25 @@
-
 ---
 ---
 
 @import "{{ site.theme }}";
 
-header {
-  display: none !important;
+/* Tug's Garage LLC: dark industrial theme */
+:root { color-scheme: dark; }
+html, body { background: #171b21 !important; color: #e5e7eb !important; }
+body, .markdown-body { background: #171b21 !important; color: #e5e7eb !important; }
+.markdown-body h1, .markdown-body h2, .markdown-body h3,
+.markdown-body h4, .markdown-body h5, .markdown-body h6 {
+  color: #f5f7fa !important;
+  border-bottom-color: #39424f !important;
 }
+.markdown-body a { color: #f5ad42 !important; }
+.markdown-body a:hover, .markdown-body a:focus { color: #ffd08a !important; text-decoration: underline; }
+.markdown-body strong { color: #f5f7fa; }
+.markdown-body hr { background-color: #39424f !important; }
+.markdown-body blockquote { color: #b8c3d1 !important; border-left-color: #f5a623 !important; }
+.markdown-body table tr { background-color: #171b21 !important; border-top-color: #39424f !important; }
+.markdown-body table tr:nth-child(2n) { background-color: #252b34 !important; }
+.markdown-body table th, .markdown-body table td { border-color: #39424f !important; }
+.markdown-body pre, .markdown-body code { background-color: #252b34 !important; color: #e5e7eb !important; }
+.markdown-body img { max-width: 100%; height: auto; }
+header { display: none !important; }
