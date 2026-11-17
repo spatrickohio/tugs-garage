@@ -2,91 +2,79 @@
 
 **Independent Product Testing & Field Evaluation**
 
-## Professional Services
+[Home](README.md) · [Email Tug's Garage](mailto:tugsgarage@gmail.com)
+
+## Professional Evaluation Services
 
 ### Real-World Testing. Practical Feedback.
 
-Tug's Garage LLC provides independent product evaluations to help manufacturers understand how their products perform in everyday use.
+Tug's Garage LLC provides independent, hands-on product evaluations for manufacturers seeking useful feedback from actual operating conditions.
 
-Our focus is on practical installation, functionality, usability, compatibility, and reliability observations. We provide straightforward, hands-on feedback to help manufacturers identify potential improvements and understand the real-world user experience.
+We assess product functionality, practical performance, installation or setup, usability, compatibility, reliability, and limitations. When appropriate, our reports include electrical measurements and documented observations. We clearly distinguish manufacturer specifications from what we actually measured or observed.
 
-## Home Automation & Smart Devices
+**Paid product evaluation projects are welcome.** We discuss the product, scope, schedule, and deliverables individually before accepting an assignment. A public video or affiliate arrangement is not required for a private evaluation.
 
-Home automation and connected technology are a primary focus of Tug's Garage LLC.
+## Evaluation Areas
 
-We evaluate a wide range of smart-home products, monitoring equipment, and consumer electronics, including:
+### Smart-Home & Connected Devices
 
-- Zigbee, Z-Wave, Matter, Wi-Fi, Bluetooth, and other connected-device technologies
-- ESPHome devices and compatible integrations
-- Home Assistant compatibility and integration
-- Smart switches, plugs, sensors, controllers, and monitoring equipment
-- Installation, configuration, connectivity, and everyday usability
-- Reliability observations, interoperability, and potential problem areas
+- Zigbee, Z-Wave, Matter, Wi-Fi, Bluetooth, and related technologies
+- Home Assistant and ESPHome integration
+- Smart plugs, switches, sensors, controllers, and monitoring equipment
+- Connectivity, configuration, interoperability, and everyday operation
+- Power monitoring and practical electrical observations when appropriate
 
-Products may be evaluated independently or as part of an integrated smart-home system, depending on their intended application.
+Products may be evaluated independently or within an existing smart-home system.
 
-Our existing home automation projects demonstrate our approach to practical monitoring, troubleshooting, and understanding how devices behave during everyday operation.
+### Tools & Workshop Equipment
 
-**Our philosophy: Awareness Before Automation.**
+- Hand tools and electrical, automotive, construction, and workshop equipment
+- Functionality, ergonomics, usability, and setup
+- Practical durability observations and product limitations
+- Opportunities for product improvement based on actual use
 
-## Tools & Equipment
+### Automotive Products & Accessories
 
-We also evaluate tools and equipment used in automotive repair, electrical work, residential construction, woodworking, and general workshop applications.
+- Selected aftermarket components and accessories
+- Physical measurements and fitment considerations
+- Installation, mounting, and electrical integration
+- Real-world operation where equipment and vehicle access permit
 
-Our evaluations focus on:
+Vehicle-specific testing depends on access to a suitable vehicle and an agreed scope.
 
-- Practical performance and functionality
-- Ease of use and ergonomics
-- Product features and limitations
-- Installation or setup requirements
-- Durability observations during actual use
-- Opportunities for practical product improvements
+## What Manufacturers Can Expect
 
-Whether a product is a traditional hand tool or a new design, our objective is to determine how well it performs its intended purpose.
+Depending on the assignment, deliverables may include:
 
-## Automotive Products & Accessories
+- A **private written field evaluation report** for the manufacturer
+- Practical test observations and relevant measurements
+- Product photographs and supporting evidence
+- Findings on usability, compatibility, reliability, and limitations
+- Constructive recommendations grounded in observed results
+- Optional public-facing review or video demonstration, when separately agreed
 
-Tug's Garage LLC considers selected aftermarket automotive products, universal-fit accessories, and vehicle-specific components.
+We do not promise favorable reviews. Feedback remains independent, and we do not present field evaluations as laboratory certification.
 
-Depending on the product and available resources, evaluations may include:
+### Recent Evaluation Work
 
-- Physical measurements and dimensional comparisons
-- Installation and mounting considerations
-- Compatibility and clearance observations
-- Electrical integration considerations
-- Real-world operation when appropriate
+Tug's Garage LLC completed a formal field evaluation of the **Third Reality Gen3 Smart Plug with Power Meter (3RSP02064Z)**, covering real-world Home Assistant/Zigbee operation, switching behavior, selected electrical measurements, and the Metering Only feature. The completed report was delivered privately to the manufacturer in November 2026.
 
-Vehicle-specific fitment testing depends on access to suitable vehicles and an agreed evaluation scope.
+The full report is not publicly posted.
 
-## Working With Manufacturers
+## Our Approach
 
-We offer flexible evaluation and review arrangements based on each manufacturer's objectives.
+Tug's Garage combines industrial electrical maintenance and troubleshooting experience with practical field use. We value useful evidence, clear reporting, and honest communication over exaggerated claims.
 
-Available options may include:
-
-- Private product evaluations with direct manufacturer feedback
-- Product evaluations with optional public video demonstrations
-- Standalone product reviews for the Tug's Garage YouTube channel
-
-Each project is discussed individually to determine its feasibility, objectives, scope, and deliverables.
-
-Our observations and feedback remain independent and based on actual experience. Tug's Garage LLC is not a product certification laboratory.
+**Awareness Before Automation. Reliability Over Complexity.**
 
 ## Contact & Business Inquiries
 
-Interested in having a product evaluated or discussing a potential collaboration?
+Interested in discussing a paid evaluation, manufacturer feedback, or a potential collaboration? Tell us about the product, intended application, and what you would like evaluated.
 
-Contact Tug's Garage LLC with information about your product and what you would like to accomplish.
-
-**Tug's Garage LLC**
-
-**Email:** [tugsgarage@gmail.com](mailto:tugsgarage@gmail.com)
-
-**Mailing Address:**  
-Tug's Garage LLC  
-PO Box 107  
-Shelby, OH 44875
-
+**Tug's Garage LLC**  
+**Email:** [tugsgarage@gmail.com](mailto:tugsgarage@gmail.com)  
+**Mailing Address:** PO Box 107, Shelby, OH 44875  
+**Website:** [spatrickohio.github.io/tugs-garage](https://spatrickohio.github.io/tugs-garage/)  
 **YouTube:** [Tug's Garage](https://youtube.com/@tugsgarage)
 
 ---
